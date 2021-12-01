@@ -1,3 +1,4 @@
 # Cryptocurrencies
 
-I understand there is no written component for my grade, however I will include a written analysis to include with this submission for my portfolio.
+Using unsupervised machine learning models, I intend to find patterns in data concerning 40+ cryptocurrencies.<br />
+
